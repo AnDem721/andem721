@@ -1,0 +1,4 @@
+Utwórz ręcznie plik tekstowy. Wpisz do niego cztery dowolne napisy: każdy w nowym wierszu.
+Napisz program który odczyta ten plik, wypisze każdy z wierszy i dla każdego wiersza poda jego długość.
+Dla każdego wiersza wypisz najczęściej występująca literę.
+Wypisz także najczęściej występujące słowo dla całego pliku.

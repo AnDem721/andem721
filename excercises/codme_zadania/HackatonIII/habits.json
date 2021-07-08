@@ -1,0 +1,4 @@
+[{"habit_id": "habit1", "name": "workout", "freq": "3", "start_date": "2021-03-01", "progress": ["2021-03-01", "2021-03-03", "2021-03-06"]},
+  {"habit_id": "habit2", "name": "coding", "freq": "7", "start_date": "2021-03-01", "progress": ["2021-03-01", "2021-03-02", "2021-03-04"]},
+  {"habit_id": "bieganie", "name": "bieganie", "freq": "", "start_date": "2021-03-01", "progress": []},
+  {"habit_id": "gra w szachy", "name": "gra w szachy", "freq": "", "start_date": "2021-03-01", "progress": []}]
