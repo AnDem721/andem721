@@ -1,4 +1,4 @@
-## This is a log of my coding practice 🤔
+# This is a log of my coding practice 🤔
 
 <!--
 **AnDem721/andem721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
